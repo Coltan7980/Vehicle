@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|c:\\users\\paulc\\onedrive\\desktop\\c# folder\\homework-5\\mototcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|solutionrelative:mototcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|c:\\users\\paulc\\onedrive\\desktop\\c# folder\\homework-5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|c:\\users\\paulc\\onedrive\\desktop\\c# folder\\homework-5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|c:\\users\\paulc\\onedrive\\desktop\\c# folder\\homework-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F005804F-E9F5-4737-A017-024F4A688ACA}|HomeWork-5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mototcycle.cs",
+              "DocumentMoniker": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Mototcycle.cs",
+              "RelativeDocumentMoniker": "Mototcycle.cs",
+              "ToolTip": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Mototcycle.cs",
+              "RelativeToolTip": "Mototcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:55:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:45:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\vehicle.cs",
+              "RelativeDocumentMoniker": "vehicle.cs",
+              "ToolTip": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\vehicle.cs",
+              "RelativeToolTip": "vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:39:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\paulc\\OneDrive\\Desktop\\C# Folder\\HomeWork-5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:39:26.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
